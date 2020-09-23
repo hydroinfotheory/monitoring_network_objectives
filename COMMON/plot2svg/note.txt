@@ -1,0 +1,7 @@
+This package was included to support the plotting of the Venn plots in the paper by Foroozand and Weijs:
+https://hess.copernicus.org/preprints/hess-2020-148/
+
+This is a stripped down and possibly outdated version of the original package plot2svg
+For a fully functional version, look for the original package, e.g. here:
+https://blogs.zhinst.com/schwizer/
+

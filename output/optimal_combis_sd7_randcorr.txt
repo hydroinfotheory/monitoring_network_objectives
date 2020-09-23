@@ -1,0 +1,17 @@
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\textbf{ 1}&\textbf{ 1}&\textbf{ 2}&\textbf{ 3}&\textbf{ 4}&\textbf{ 5}&\textbf{ 6}&\textbf{ 7}&\textbf{ 8}&\textbf{ 9}&\textbf{10}&\textbf{11}&\textbf{12}\\\hline
+0&1&2&3&4&5&6&7&8&9&10&11&12\\\hline
+1&      $\square$ &      $\square$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ \\\hline
+2&  $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ \\\hline
+3&  $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ \\\hline
+4&  $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ &      $\square$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ &      $\square$ \\\hline
+5&  $\blacksquare$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ &      $\square$ \\\hline
+6&  $\blacksquare$ & $\blacksquare$ &      $\square$ &      $\square$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ &      $\square$ &      $\square$ & $\blacksquare$ \\\hline
+7&  $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ &      $\square$ &      $\square$ & $\blacksquare$ \\\hline
+8&  $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ \\\hline
+9&  $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ \\\hline
+10& $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ \\\hline
+11& $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ &      $\square$ & $\blacksquare$ \\\hline
+12& $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ \\\hline
+\end{tabular}

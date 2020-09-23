@@ -1,0 +1,7 @@
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+\hline
+&\textbf{ 1}&\textbf{ 2}&\textbf{ 3}&\textbf{ 4}&\textbf{ 5}&\textbf{ 6}&\textbf{ 7}&\textbf{ 8}&\textbf{ 9}&\textbf{10}&\textbf{11}&\textbf{12}\\\hline
+\textbf{Exhausitve}&2.4699&3.0711&3.4995&3.7036&3.885&4.0236&4.0898&4.0981&4.0981&4.0981&4.0981&4.0981\\\hline
+\textbf{Greedy Add}&2.4699&3.0711&3.4995&3.7036&3.885&4.0236&4.0898&4.0981&4.0981&4.0981&4.0981&4.0981\\\hline
+\textbf{Greedy Drop}&2.4699&3.0711&3.4995&3.7036&3.885&4.0236&4.0898&4.0981&4.0981&4.0981&4.0981&4.0981\\\hline
+\end{tabular}

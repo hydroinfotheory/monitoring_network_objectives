@@ -1,0 +1,5 @@
+\begin{tabular}{|l|l|}
+\hline
+&\textbf{ 1}\\\hline
+\textbf{M1}&3.4995\\\hline
+\end{tabular}
